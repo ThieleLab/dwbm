@@ -1,0 +1,102 @@
+Recon 2.1 unique subSystems,Meta subSystems
+"'Transport, lysosomal'",TRANSPORT
+"'Transport, mitochondrial'",TRANSPORT
+"'Transport, endoplasmic reticular'",TRANSPORT
+'beta-Alanine metabolism',amino acid metabolism
+'Vitamin D metabolism',vitamin metabolism
+"'Transport, extracellular'",TRANSPORT
+'Lysine metabolism',amino acid metabolism
+"'Glycine, serine, alanine and threonine metabolism'",amino acid metabolism
+'Methionine and cysteine metabolism',amino acid metabolism
+'Pyrimidine catabolism',nucleotide metabolism
+'Propanoate metabolism',miscellaneous
+'Tryptophan metabolism',amino acid metabolism
+'Tyrosine metabolism',amino acid metabolism
+'Ubiquinone synthesis',miscellaneous
+"'Transport, nuclear'",TRANSPORT
+"'Valine, leucine, and isoleucine metabolism'",amino acid metabolism
+'Sphingolipid metabolism',lipid metabolism
+'Butanoate metabolism',miscellaneous
+'Purine catabolism',nucleotide metabolism
+'Taurine and hypotaurine metabolism',amino acid metabolism
+'Arginine and Proline Metabolism',amino acid metabolism
+'Cytochrome metabolism',ETC
+'Steroid metabolism',lipid metabolism
+'Heme synthesis',heme metabolism
+'N-glycan degradation',carbohydrate metabolism
+'O-glycan synthesis',carbohydrate metabolism
+'Blood group synthesis',carbohydrate metabolism
+'Glutamate metabolism',amino acid metabolism
+'Pentose phosphate pathway',carbohydrate metabolism
+'Cholesterol metabolism',lipid metabolism
+'Fatty acid oxidation',lipid metabolism
+"'Transport, peroxisomal'",TRANSPORT
+"'Transport, golgi apparatus'",TRANSPORT
+'Aminosugar metabolism',carbohydrate metabolism
+'Phosphatidylinositol phosphate metabolism',lipid metabolism
+'Urea cycle',amino acid metabolism
+'Glycerophospholipid metabolism',lipid metabolism
+'Citric acid cycle',carbohydrate metabolism
+'Pyruvate metabolism',miscellaneous
+'Bile acid synthesis',lipid metabolism
+'Vitamin B2 metabolism',vitamin metabolism
+'Glycolysis/gluconeogenesis',carbohydrate metabolism
+'Nucleotide interconversion',nucleotide metabolism
+'Nucleotide salvage pathway',nucleotide metabolism
+'Selenoamino acid metabolism',amino acid metabolism
+'Purine synthesis',nucleotide metabolism
+'Keratan sulfate synthesis',carbohydrate metabolism
+'Triacylglycerol synthesis',lipid metabolism
+'Alanine and aspartate metabolism',amino acid metabolism
+'Miscellaneous',miscellaneous
+'Eicosanoid metabolism',lipid metabolism
+'Glutathione metabolism',amino acid metabolism
+'Starch and sucrose metabolism',carbohydrate metabolism
+'Biotin metabolism',vitamin metabolism
+'R group synthesis',lipid metabolism
+'Unassigned',unassigned
+'Vitamin C metabolism',vitamin metabolism
+'Pyrimidine synthesis',nucleotide metabolism
+'Oxidative phosphorylation',ETC
+'Vitamin A metabolism',vitamin metabolism
+"'Stilbene, coumarine and lignin synthesis'",miscellaneous
+'N-glycan synthesis',carbohydrate metabolism
+'Heme degradation',heme metabolism
+Limonene and pinene degradation',lipid metabolism
+'ROS detoxification',ROS
+'Vitamin B12 metabolism',vitamin metabolism
+'C5-branched dibasic acid metabolism',miscellaneous
+'Alkaloid synthesis',miscellaneous
+'Chondroitin sulfate degradation',carbohydrate metabolism
+'D-alanine metabolism',amino acid metabolism
+'Fatty acid synthesis',lipid metabolism
+'Folate metabolism',vitamin metabolism
+'Tetrahydrobiopterin metabolism',miscellaneous
+'Exchange/demand reaction',exchange
+'CoA synthesis',vitamin metabolism
+'Keratan sulfate degradation',carbohydrate metabolism
+'Fructose and mannose metabolism',carbohydrate metabolism
+'Glyoxylate and dicarboxylate metabolism',miscellaneous
+'Galactose metabolism',carbohydrate metabolism
+'Nucleotide sugar metabolism',nucleotide metabolism
+'Chondroitin synthesis',carbohydrate metabolism
+'Heparan sulfate degradation',carbohydrate metabolism
+'Hyaluronan metabolism',carbohydrate metabolism
+'Histidine metabolism',amino acid metabolism
+'Vitamin B6 metabolism',vitamin metabolism
+'Inositol phosphate metabolism',lipid metabolism
+'CoA catabolism',vitamin metabolism
+'NAD metabolism',vitamin metabolism
+'Phenylalanine metabolism',amino acid metabolism
+'Thiamine metabolism',vitamin metabolism
+'Androgen and estrogen synthesis and metabolism',lipid metabolism
+'Lipoate metabolism',vitamin metabolism
+'Arachidonic acid metabolism',lipid metabolism
+'Vitamin E metabolism',vitamin metabolism
+'Linoleate metabolism',lipid metabolism
+'Glycosphingolipid metabolism',lipid metabolism
+'Xenobiotics metabolism',xenobiotic metabolism
+'Dietary fiber binding',carbohydrate metabolism
+'Squalene and cholesterol synthesis',lipid metabolism
+'Hippurate metabolism',amino acid metabolism
+'Peptide metabolism',amino acid metabolism
