@@ -4,7 +4,7 @@ Reference: Pan-organ model integration of metabolic and regulatory processes in 
 
 Authors: Marouen Ben Guebila and Ines Thiele.
 
-Corresponding author: Ines Thiele ines.thiele@gmail.com
+Corresponding author: Ines Thiele ines.thiele AT gmail.com
 
 ## System requirements
 
